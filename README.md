@@ -14,6 +14,10 @@ classification automatique
 
 # Traitements réalisés
 • Chargement et description des données
+
 • Classification automatique
+
 • Pistes pour la détection du nombre adéquat de classes
+
 • Description – interprétation des groupes
+
